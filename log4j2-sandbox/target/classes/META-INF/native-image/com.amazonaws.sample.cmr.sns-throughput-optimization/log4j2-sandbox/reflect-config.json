@@ -1,0 +1,219 @@
+[
+  {
+    "name":"org.apache.logging.log4j.core.appender.AbstractAppender$Builder",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.appender.ConsoleAppender",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.appender.ConsoleAppender$Builder",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.AppenderRef",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.AppendersPlugin",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.LoggerConfig",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.LoggerConfig$RootLogger",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.LoggersPlugin",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.PropertiesPlugin"
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.Property"
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BigDecimalConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BigIntegerConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BooleanConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ByteArrayConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ByteConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharArrayConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharacterConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CharsetConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ClassConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$CronExpressionConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$DoubleConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$DurationConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$FileConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$FloatConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$InetAddressConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$IntegerConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$LevelConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$LongConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$PathConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$PatternConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$SecurityProviderConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$ShortConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$StringConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UriConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UrlConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$UuidConverter",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.validation.validators.RequiredValidator",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.visitors.PluginAttributeVisitor",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.visitors.PluginBuilderAttributeVisitor",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.visitors.PluginConfigurationVisitor",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.plugins.visitors.PluginElementVisitor",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.xml.XmlConfigurationFactory",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.impl.Log4jContextFactory",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.layout.PatternLayout",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.layout.PatternLayout$Builder",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.lookup.Log4jLookup",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.MessagePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.DatePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LevelPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LineSeparatorPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LoggerPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.ThreadNamePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.util.ExecutorServices"
+  },
+  {
+    "name":"org.apache.logging.log4j.message.DefaultFlowMessageFactory",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.message.ReusableMessageFactory",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  }
+]
