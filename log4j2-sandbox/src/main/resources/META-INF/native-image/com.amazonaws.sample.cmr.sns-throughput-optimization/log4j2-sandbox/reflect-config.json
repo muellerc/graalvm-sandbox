@@ -32,12 +32,6 @@
     "allDeclaredMethods":true
   },
   {
-    "name":"org.apache.logging.log4j.core.config.PropertiesPlugin"
-  },
-  {
-    "name":"org.apache.logging.log4j.core.config.Property"
-  },
-  {
     "name":"org.apache.logging.log4j.core.config.plugins.convert.TypeConverters$BigDecimalConverter",
     "methods":[{"name":"<init>","parameterTypes":[] }]
   },
